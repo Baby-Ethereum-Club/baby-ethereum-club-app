@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf3aFe8D513d15609fee07CA6642E37AeFa2A1D73",
+  "SCAN_LINK": "https://polygonscan.com/address/0xf3aFe8D513d15609fee07CA6642E37AeFa2A1D73",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Baby Ethereum Club",
+  "SYMBOL": "BEC",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 15000000000000000000,
+  "DISPLAY_COST": 15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/babyethereumclub",
+  "SHOW_BACKGROUND": true
+}
